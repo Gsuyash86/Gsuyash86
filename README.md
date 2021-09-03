@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gsuyash86
-- 👀 I’m interested in 
+- 👀 I’m interested in Web Designing 
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
